@@ -12,9 +12,9 @@ public class Cellista extends Musico implements Som {
     public void mostrarInfo() {
         System.out.println("---INFORMACOES DO CELLISTA---");
         if (sentado == true)
-            System.out.println("O violinista esta sentado");
+            System.out.println("O cellista esta sentado");
         else
-            System.out.println("O violinista esta em pé");
+            System.out.println("O cellista esta em pé");
         super.mostrarInfo();
     }
 
