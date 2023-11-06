@@ -1,0 +1,12 @@
+++ FILME ++
+Viga
+Rista
+100
+++ FILME ++
+Mor
+Te
+300
+++ FILME ++
+Bique
+Ta
+400
